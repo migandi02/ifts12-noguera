@@ -23,3 +23,14 @@ suma (25, 50)
 
 suma (108, 30)
 
+print("siguiente instruccion")
+print("incorporamos return")
+
+# inlcuimos la sentencia return
+
+def suma(n1,n2):
+    resultado=n1+n2
+    return resultado
+print( suma(125,40))
+
+print("siguiente instruccion")
